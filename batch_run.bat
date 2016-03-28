@@ -1,2 +1,2 @@
-SET /P value= <C:\Users\Administrator\Documents\Macro Test\batch_test.txt
+SET /P value= <C:\Users\Administrator\Documents\Macro Test\avgwaittime.txt
 TIMEOUT /T %value%
